@@ -2,7 +2,7 @@
 
 A modern, responsive weather application built with React, TypeScript, and Tailwind CSS. Get accurate weather forecasts with a beautiful, intuitive interface that adapts to current weather conditions.
 
-![Weather App Preview](https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop)
+![Weather App Preview](https://github.com/Saurava69/weather-app/blob/new/Screenshot.png)
 
 ## ✨ Features
 
